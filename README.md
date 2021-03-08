@@ -1,7 +1,7 @@
 # Amazon Vine Analysis
 
 ## Overview of the Analysis 
-The purpose of this analysis was to determine if bias exists trowards favorable reviews based on whether reviewers were paid (Vine members) or not in the selected dataset. 
+The purpose of this analysis was to determine if bias exists towards favorable reviews based on whether reviewers were paid (Vine members) or not in the selected dataset. 
 
 ## Results 
 
